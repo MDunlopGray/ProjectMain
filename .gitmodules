@@ -1,0 +1,3 @@
+[submodule "ProjectSub"]
+	path = ProjectSub
+	url = git@github.com:MDunlopGray/ProjectSub.git
